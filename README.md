@@ -6,7 +6,7 @@ A robust n8n workflow designed to manage Google Drive files and folders directly
 
 *A short video demonstrating the end-to-end functionality of the workflow.*
 
-**[Link to your 5-minute demo video on YouTube or Loom here]**
+**[https://youtu.be/FDs1PNfw3Ew?si=4Qtw0yeTinauT1vB]**
 
 ---
 
