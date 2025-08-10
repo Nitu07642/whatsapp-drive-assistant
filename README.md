@@ -103,6 +103,9 @@ Send the following commands to the Twilio WhatsApp number:
 | `SUMMARY` | Summarizes a file's content. | `SUMMARY filename.txt` |
 
 ---
+## Whatsapp Twilio Message
+<img width="1256" height="745" alt="Screenshot 2025-08-10 222151" src="https://github.com/user-attachments/assets/c22e1531-467c-48d5-b898-4a1392059340" />
+
 
 ## Google Sheet Data Save 
 <img width="1919" height="865" alt="Data-in-Google-sheet" src="https://github.com/user-attachments/assets/287e2dd7-5e9e-4f80-8d1a-b5810190616e" />
